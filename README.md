@@ -1,1 +1,1 @@
-(Конфликт)[conflict.png]
+![Конфликт](conflict.png)
